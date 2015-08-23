@@ -1,0 +1,8 @@
+C:\Users\Korytko\AppData\Local\Temporary Projects\kasowanie slowa wrzuta\bin\Debug\kasowanie slowa wrzuta.exe
+C:\Users\Korytko\AppData\Local\Temporary Projects\kasowanie slowa wrzuta\bin\Debug\kasowanie slowa wrzuta.pdb
+C:\Users\Korytko\AppData\Local\Temporary Projects\kasowanie slowa wrzuta\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Korytko\AppData\Local\Temporary Projects\kasowanie slowa wrzuta\obj\Debug\kasowanie_slowa_wrzuta.Form1.resources
+C:\Users\Korytko\AppData\Local\Temporary Projects\kasowanie slowa wrzuta\obj\Debug\kasowanie_slowa_wrzuta.Properties.Resources.resources
+C:\Users\Korytko\AppData\Local\Temporary Projects\kasowanie slowa wrzuta\obj\Debug\kasowanie slowa wrzuta.csproj.GenerateResource.Cache
+C:\Users\Korytko\AppData\Local\Temporary Projects\kasowanie slowa wrzuta\obj\Debug\kasowanie slowa wrzuta.exe
+C:\Users\Korytko\AppData\Local\Temporary Projects\kasowanie slowa wrzuta\obj\Debug\kasowanie slowa wrzuta.pdb

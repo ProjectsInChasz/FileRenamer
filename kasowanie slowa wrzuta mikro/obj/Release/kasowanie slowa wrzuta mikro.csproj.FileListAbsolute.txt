@@ -1,0 +1,16 @@
+C:\Users\Korytko\Desktop\moje\Programy BT\C#\porzadkowanie cyfr\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\bin\Release\kasowanie slowa wrzuta mikro.exe
+C:\Users\Korytko\Desktop\moje\Programy BT\C#\porzadkowanie cyfr\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\bin\Release\kasowanie slowa wrzuta mikro.pdb
+C:\Users\Korytko\Desktop\moje\Programy BT\C#\porzadkowanie cyfr\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Korytko\Desktop\moje\Programy BT\C#\porzadkowanie cyfr\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\obj\Release\kasowanie_slowa_wrzuta.Form1.resources
+C:\Users\Korytko\Desktop\moje\Programy BT\C#\porzadkowanie cyfr\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\obj\Release\kasowanie_slowa_wrzuta.Properties.Resources.resources
+C:\Users\Korytko\Desktop\moje\Programy BT\C#\porzadkowanie cyfr\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\obj\Release\kasowanie slowa wrzuta mikro.csproj.GenerateResource.Cache
+C:\Users\Korytko\Desktop\moje\Programy BT\C#\porzadkowanie cyfr\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\obj\Release\kasowanie slowa wrzuta mikro.exe
+C:\Users\Korytko\Desktop\moje\Programy BT\C#\porzadkowanie cyfr\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\obj\Release\kasowanie slowa wrzuta mikro.pdb
+D:\IT\Projects\C#\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\obj\Release\kasowanie slowa wrzuta mikro.exe
+D:\IT\Projects\C#\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\obj\Release\kasowanie slowa wrzuta mikro.pdb
+D:\IT\Projects\C#\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\bin\Release\kasowanie slowa wrzuta mikro.exe
+D:\IT\Projects\C#\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\bin\Release\kasowanie slowa wrzuta mikro.pdb
+D:\IT\Projects\C#\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\obj\Release\kasowanie slowa wrzuta mikro.csprojResolveAssemblyReference.cache
+D:\IT\Projects\C#\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\obj\Release\kasowanie_slowa_wrzuta.Form1.resources
+D:\IT\Projects\C#\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\obj\Release\kasowanie_slowa_wrzuta.Properties.Resources.resources
+D:\IT\Projects\C#\kasowanie slowa wrzuta mikro\kasowanie slowa wrzuta mikro\obj\Release\kasowanie slowa wrzuta mikro.csproj.GenerateResource.Cache
